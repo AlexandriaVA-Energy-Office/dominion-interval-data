@@ -1,1 +1,1 @@
-# dominion-interval-data
+# A script that takes individual, column-ordered interval data files downloaded from Dominion Energy and cleans, transforms and combines them into a single row-ordered CSV file that can be uploaded to EnergyCAP.
